@@ -1,6 +1,7 @@
 Garage system with npc dialogue system.
 
 Requirements:
+- ESX
 
 - ox_lib (https://github.com/overextended/ox_lib)
 

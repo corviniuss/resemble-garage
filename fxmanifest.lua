@@ -19,11 +19,6 @@ server_scripts {
     'server/*.lua'
 }
 
-escrow_ignore {
-    "config.lua",
-    "locales/*.lua",
-  }
-
 dependencies {
     'ox_lib',
 }
